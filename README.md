@@ -6,6 +6,6 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=700&color=F7F0EA&center=true&width=435&lines=so+go+on+%2C;chase+me+like+a+hopeless+lost+dog+.;And+maybe+%2C;just+maybe+.;I+'+ll+take+you+home+with+me+.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=700&color=F7F0EA&center=true&width=435&lines=so+go+on+.;chase+me+like+a+hopeless+lost+dog+.;And+maybe+.+.;just+maybe+%2C;I+'+ll+take+you+home+with+me+.)](https://git.io/typing-svg)
 
 </div>
